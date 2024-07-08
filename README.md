@@ -2,6 +2,8 @@
 
 This is a Parking Fee Calculator built with Next.js (React framework) and TypeScript. The application calculates parking fees based on entry and exit times, taking into account weekday and weekend rates, grace periods, and maximum daily charges.
 
+Demno: https://parking-fee-calculator.vercel.app/
+
 
 https://github.com/kovoor/parking-fee-calculator/assets/40061443/15ec1c9a-3468-432c-9cda-584bda73dc09
 
